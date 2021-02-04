@@ -1,3 +1,5 @@
+![cover](https://github.com/ThomasGil92/ThomasGil92/blob/main/img/domenico-loia-hGV2TfOh0ns-unsplash.jpg)
+
 ### Hi there 👋
 
 <!--
