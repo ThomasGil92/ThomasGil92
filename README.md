@@ -1,6 +1,6 @@
 ![cover](https://github.com/ThomasGil92/ThomasGil92/blob/main/img/github-profile.jpg)
 
-### Hi there 👋
+### <h2 align=center>Hi there 👋</h2>
 
 <!--
 **ThomasGil92/ThomasGil92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
