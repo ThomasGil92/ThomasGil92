@@ -1,6 +1,11 @@
 ![cover](https://github.com/ThomasGil92/ThomasGil92/blob/main/img/github-profile.jpg)
 
-### <h2 align=center>Hi there 👋</h2>
+<h2 align=center>Hi there 👋</h2>
+<div>
+  <p>I'm a <strong>React / Node.js / Next.js</strong> web developer for 2 years and I am looking to join a team of experienced developers.</p>
+  <p>🔰I'm currently working on an ecommerce application made with <a href="https://github.com/ThomasGil92/next_ecommerce">Next.js</a> and Node.js. </p>
+  <p>♻👨‍🍳Before my retraining, I was a great (*the best) cook, a great barman and a great head waiter</p>
+</div>
 
 <!--
 **ThomasGil92/ThomasGil92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
