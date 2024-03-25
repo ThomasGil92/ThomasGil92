@@ -7,7 +7,7 @@
 My goal is to join a dynamic React frontend development team, where I can contribute to long-term projects and participate in the creation of innovative products.</p>
   <div>
   <h2>🔗 Contact</h2>
-  <span style="font-size:2rem;margin-right:5px">☞</span><a href="https://mail.google.com/mail/?view=cm&fs=1&to=tgil849@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tgil849@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/thomas-gil-459462248/"><img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <h2>🚀 Skills</h2>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
