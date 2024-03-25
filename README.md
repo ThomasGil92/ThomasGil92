@@ -10,7 +10,7 @@ My goal is to join a dynamic React frontend development team, where I can contri
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tgil849@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://www.linkedin.com/in/thomas-gil-459462248/"><img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <h2>🚀 Skills</h2>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <div style="width:50%"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="React-router-dom" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -29,8 +29,8 @@ My goal is to join a dynamic React frontend development team, where I can contri
     <img alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-    <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /><div>
-    <img alt="JWT" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasgil92&theme=blue-green" /></div>
+    <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /></div>
+    <div><img alt="JWT" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasgil92&theme=blue-green" /></div>
     <h2>🔔 Tests</h2>
     <img alt="testing library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
     <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
