@@ -30,7 +30,7 @@ My goal is to join a dynamic React frontend development team, where I can contri
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /></div>
-    <div><img alt="JWT" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasgil92&theme=blue-green" /></div></div>
+    <div style="margin-top:10px"><img alt="JWT" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomasgil92&theme=blue-green" /></div></div>
     <h2>🔔 Tests</h2>
     <img alt="testing library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
     <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
