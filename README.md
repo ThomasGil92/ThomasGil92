@@ -5,7 +5,7 @@
   <p>I'm a <strong>React / Next.js</strong> web developer for 4 years.</p>
   <p>🔰
 My goal is to join a dynamic React frontend development team, where I can contribute to long-term projects and participate in the creation of innovative products.
-  </p><p>You can read my articles on <a href="[https://mail.google.com/mail/?view=cm&fs=1&to=tgil849@gmail.com](https://medium.com/@tgil849)"><img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)"/></p>
+  </p><p>You can read my articles on <a href="https://medium.com/@tgil849"><img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
   <div>
   <h2>🔗 Contact</h2>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tgil849@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
