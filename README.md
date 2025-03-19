@@ -1,11 +1,16 @@
 ![cover](https://github.com/ThomasGil92/ThomasGil92/blob/main/img/Thomas_Gil_2.png)
 
 <div>
-  <h1 align=center>Hi there 👋</h1>
-  <p>I'm a <strong>React / Next.js</strong> web developer for 4 years.</p>
-  <p>🔰
-My goal is to join a dynamic React frontend development team, where I can contribute to long-term projects and participate in the creation of innovative products.
-  </p><p>You can read my articles on <a href="https://medium.com/@tgil849"><img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
+  <h1>Web Developer | Clean Architecture Enthusiast | Next.js & React Specialist</h1>
+
+<p>Hi, I'm Thomas, a passionate web developer with a strong focus on building scalable, maintainable, and high-quality applications. I specialize in React, Next.js, and modern frontend architectures, applying Clean Architecture, TDD, and BDD to create robust and efficient solutions.</p>
+
+<p>I love sharing my knowledge through YouTube tutorials and technical articles, helping developers understand best practices in software architecture and frontend development.</p>
+
+<p>Currently, I'm open to new opportunities in the U.S. or in France, where I can contribute my skills and continue growing in an innovative environment.</p>
+
+🚀 Let's connect and discuss how we can collaborate!
+  <p>You can read my articles on <a href="https://medium.com/@tgil849"><img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></p>
   <div>
   <h2>🔗 Contact</h2>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tgil849@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
